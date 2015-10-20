@@ -4,6 +4,7 @@ public class uebung_1_1 {
 
 	public static void main(String[] args) {
 		System.out.println("Hallo Welt!");
+		System.out.println("Mein Name ist Lasse Christiansen");
 	}
 
 }
